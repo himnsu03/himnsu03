@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate frontend developer & Data Science enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fwhytheplatypus%2Ffig&psig=AOvVaw28XW4WkoZ2L-wvSLt6e31T&ust=1696942574688000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDxouuB6YEDFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himnsu03&label=Profile%20views&color=0e75b6&style=flat" alt="himnsu03" /> </p>
 
