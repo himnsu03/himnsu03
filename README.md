@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
+
+<img align="right" alt="Coding"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"><h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate frontend developer & Data Science enthusiast from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himnsu03&label=Profile%20views&color=0e75b6&style=flat" alt="himnsu03" /> </p>
 
