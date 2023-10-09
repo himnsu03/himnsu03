@@ -34,4 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himnsu03&show_icons=true&locale=en" alt="himnsu03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himnsu03&" alt="himnsu03" /></p>
-[![@yhimnsu03's Holopin board](https://holopin.me/himnsu03)](https://holopin.io/@himnnsu03)
+[![An image of @himnsu03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himnsu03)](https://holopin.io/@himnsu03)
+
