@@ -8,7 +8,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himnsu03" alt="himnsu03" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/himnsupndt" target="blank"><img src="https://img.shields.io/twitter/follow/himnsupndt?logo=twitter&style=for-the-badge" alt="himnsupndt" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 🌱 I’m currently learning **Mern Stack**
 
@@ -35,4 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himnsu03&show_icons=true&locale=en" alt="himnsu03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himnsu03&" alt="himnsu03" /></p>
-![Badge Name](holopin.io/@himnsu03)
+[![@yhimnsu03's Holopin board](https://holopin.me/himnsu03)](https://holopin.io/@himnnsu03)
