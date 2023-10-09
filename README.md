@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate frontend developer & Data Science enthusiast from India</h3>
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fwhytheplatypus%2Ffig&psig=AOvVaw28XW4WkoZ2L-wvSLt6e31T&ust=1696942574688000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDxouuB6YEDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himnsu03&label=Profile%20views&color=0e75b6&style=flat" alt="himnsu03" /> </p>
 
@@ -32,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himnsu03&show_icons=true&locale=en" alt="himnsu03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himnsu03&" alt="himnsu03" /></p>
+![Badge Name](holopin.io/@himnsu03)
