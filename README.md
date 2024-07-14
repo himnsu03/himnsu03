@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer & Data Science enthusiast from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himnsu03&label=Profile%20views&color=0e75b6&style=flat" alt="himnsu03" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/57173445/187233357-afbad2d6-a7f7-4b3d-b5be-2205b9d70a0d.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himnsu03" alt="himnsu03" /></a> </p>
 
